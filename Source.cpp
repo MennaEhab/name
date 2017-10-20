@@ -24,7 +24,7 @@ int main()
    m.input();
    m.add();
 
- cout<<"hello"; 
+
 
    return 0;
    
